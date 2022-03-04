@@ -46,7 +46,7 @@ async function send() {
                 "GENERAL-THREE-TITLE": generalResponse.articles[2].title,
                 "GENERAL-THREE-IMG": (generalResponse.articles[2].urlToImage == null ? 'https://i.imgur.com/0CSGynq.jpg' : generalResponse.articles[2].urlToImage),
                 "GENERAL-THREE-CONTENT":
-                  generalResponse.articles[1].content.replace(/\[.*?\]/g, ""),
+                  generalResponse.articles[2].content.replace(/\[.*?\]/g, ""),
                 "GENERAL-THREE-URL": generalResponse.articles[2].url,
                 "TECH-ONE-TITLE": techResponse.articles[0].title,
                 "TECH-ONE-IMG": (techResponse.articles[0].urlToImage == null ? 'https://i.imgur.com/0CSGynq.jpg' : techResponse.articles[0].urlToImage),
