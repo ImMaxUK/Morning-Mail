@@ -19,6 +19,8 @@
 ## Install
 
 Rename `.env.example` to `.env` and fill in the required details.
+Rename `emails.example.json` to `emails.json` and replace with your email address(es).
+
 
 ```sh
 npm install
