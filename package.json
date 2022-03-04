@@ -1,0 +1,35 @@
+{
+  "name": "morning-mail",
+  "version": "1.0.0",
+  "description": "Wake up to an email containing news and other interesting topics.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ImMaxUK/Morning-Mail.git"
+  },
+  "keywords": [
+    "news",
+    "email",
+    "email-news"
+  ],
+  "author": "ImMaxUK",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ImMaxUK/Morning-Mail/issues"
+  },
+  "homepage": "https://github.com/ImMaxUK/Morning-Mail#readme",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "bunyan": "^1.8.15",
+    "bunyan-format": "^0.2.1",
+    "dotenv": "^16.0.0",
+    "handlebars": "^4.7.7",
+    "newsapi": "^2.4.1",
+    "node-cron": "^3.0.0",
+    "nodemailer": "^6.7.2"
+  },
+  "devDependencies": {}
+}
