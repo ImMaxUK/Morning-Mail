@@ -10,9 +10,6 @@
   <a href="https://github.com/ImMaxUK/Morning-Mail/blob/master/LICENSE" target="_blank">
     <img alt="License: Apache--2.0" src="https://img.shields.io/github/license/ImMaxUK/Morning Mail" />
   </a>
-  <a>
-    <img alt="Hits" src="https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2FImMaxUK%2FMorning-Mail" />
-  </a>
 </p>
 
 > Wake up to an email containing news and other interesting topics.
@@ -57,3 +54,7 @@ This project is [Apache--2.0](https://github.com/ImMaxUK/Morning-Mail/blob/maste
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+
+  <a>
+    <img alt="Hits" src="https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2FImMaxUK%2FMorning-Mail" />
+  </a>
