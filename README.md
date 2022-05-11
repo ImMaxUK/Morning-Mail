@@ -8,7 +8,7 @@
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
   <a href="https://github.com/ImMaxUK/Morning-Mail/blob/master/LICENSE" target="_blank">
-    <img alt="License: Apache--2.0" src="https://img.shields.io/github/license/ImMaxUK/Morning Mail" />
+    <img alt="License: Apache--2.0" src="https://img.shields.io/github/license/ImMaxUK/Morning-Mail" />
   </a>
 </p>
 
